@@ -1,0 +1,3452 @@
+[
+  {
+    "id": 1000361540,
+    "index": 0,
+    "isActive": false,
+    "age": 17,
+    "name": {
+      "first": "Lora",
+      "last": "Mclean"
+    },
+    "class": "IN700",
+    "ethnicity": "",
+    "statusCode": "ENR",
+    "email": "lora.mclean@school.ac",
+    "phone": "+64 (994) 516-2772",
+    "address": "54 Llama Court, Sunwest, Illinois, 7934",
+    "enrolled": "Thursday, April 2, 2020 7:48 AM",
+    "attendance": [
+      "e",
+      "p",
+      "s",
+      "p"
+    ]
+  },
+  {
+    "id": 1000614510,
+    "index": 1,
+    "isActive": true,
+    "age": 36,
+    "name": {
+      "first": "Delaney",
+      "last": "Warner"
+    },
+    "class": "IN790",
+    "ethnicity": "INT",
+    "statusCode": "ENR",
+    "email": "delaney.warner@school.ac",
+    "phone": "+64 (864) 473-2087",
+    "address": "82 John Street, Wilmington, South Dakota, 2384",
+    "enrolled": "Saturday, August 1, 2020 12:42 AM",
+    "attendance": [
+      "l",
+      "a",
+      "l",
+      "s"
+    ]
+  },
+  {
+    "id": 1000442349,
+    "index": 2,
+    "isActive": false,
+    "age": 19,
+    "name": {
+      "first": "Gwendolyn",
+      "last": "Mercer"
+    },
+    "class": "IN790",
+    "ethnicity": "",
+    "statusCode": "ENR",
+    "email": "gwendolyn.mercer@school.ac",
+    "phone": "+64 (802) 532-3698",
+    "address": "40 Bayview Place, Groton, Delaware, 366",
+    "enrolled": "Thursday, May 14, 2020 1:09 AM",
+    "attendance": [
+      "p",
+      "p",
+      "p",
+      "p"
+    ]
+  },
+  {
+    "id": 1000536688,
+    "index": 3,
+    "isActive": true,
+    "age": 27,
+    "name": {
+      "first": "Deloris",
+      "last": "Tillman"
+    },
+    "class": "IN790",
+    "ethnicity": "",
+    "statusCode": "ENR",
+    "email": "deloris.tillman@school.ac",
+    "phone": "+64 (942) 532-2009",
+    "address": "64 Catherine Street, Greenock, Florida, 4269",
+    "enrolled": "Monday, February 10, 2014 3:45 AM",
+    "attendance": [
+      "p",
+      "p",
+      "p",
+      "p"
+    ]
+  },
+  {
+    "id": 1000786701,
+    "index": 4,
+    "isActive": false,
+    "age": 21,
+    "name": {
+      "first": "Witt",
+      "last": "Stone"
+    },
+    "class": "IN750",
+    "ethnicity": "",
+    "statusCode": "ENR",
+    "email": "witt.stone@school.ac",
+    "phone": "+64 (808) 447-2663",
+    "address": "7 Railroad Avenue, Lawrence, Texas, 8865",
+    "enrolled": "Thursday, July 16, 2015 1:15 PM",
+    "attendance": [
+      "p",
+      "p",
+      "e",
+      "l"
+    ]
+  },
+  {
+    "id": 1000371543,
+    "index": 5,
+    "isActive": false,
+    "age": 35,
+    "name": {
+      "first": "Alston",
+      "last": "Carroll"
+    },
+    "class": "IN760",
+    "ethnicity": "INT",
+    "statusCode": "ENR",
+    "email": "alston.carroll@school.ac",
+    "phone": "+64 (866) 412-3173",
+    "address": "5 Quincy Street, Barrelville, Mississippi, 3258",
+    "enrolled": "Monday, April 20, 2015 11:01 AM",
+    "attendance": [
+      "p",
+      "e",
+      "p",
+      "a"
+    ]
+  },
+  {
+    "id": 1000670801,
+    "index": 6,
+    "isActive": true,
+    "age": 21,
+    "name": {
+      "first": "Freida",
+      "last": "Floyd"
+    },
+    "class": "IN700",
+    "ethnicity": "INT",
+    "statusCode": "ENR",
+    "email": "freida.floyd@school.ac",
+    "phone": "+64 (977) 405-2048",
+    "address": "79 Linden Boulevard, Rosburg, Idaho, 2686",
+    "enrolled": "Tuesday, September 8, 2015 6:19 AM",
+    "attendance": [
+      "p",
+      "p",
+      "s",
+      "p"
+    ]
+  },
+  {
+    "id": 1000621432,
+    "index": 7,
+    "isActive": false,
+    "age": 24,
+    "name": {
+      "first": "Darla",
+      "last": "Roman"
+    },
+    "class": "IN750",
+    "ethnicity": "INT",
+    "statusCode": "ENR",
+    "email": "darla.roman@school.ac",
+    "phone": "+64 (873) 552-3688",
+    "address": "22 Otsego Street, Gracey, South Carolina, 9049",
+    "enrolled": "Monday, February 8, 2016 12:37 PM",
+    "attendance": [
+      "l",
+      "a",
+      "l",
+      "l"
+    ]
+  },
+  {
+    "id": 1000110401,
+    "index": 8,
+    "isActive": false,
+    "age": 31,
+    "name": {
+      "first": "Esther",
+      "last": "Farmer"
+    },
+    "class": "IN790",
+    "ethnicity": "INT",
+    "statusCode": "ENR",
+    "email": "esther.farmer@school.ac",
+    "phone": "+64 (971) 425-2491",
+    "address": "91 Columbus Place, Snowville, Connecticut, 1626",
+    "enrolled": "Wednesday, August 7, 2019 6:50 PM",
+    "attendance": [
+      "l",
+      "s",
+      "l",
+      "s"
+    ]
+  },
+  {
+    "id": 1000677097,
+    "index": 9,
+    "isActive": true,
+    "age": 18,
+    "name": {
+      "first": "Amelia",
+      "last": "Cabrera"
+    },
+    "class": "IN790",
+    "ethnicity": "",
+    "statusCode": "ENR",
+    "email": "amelia.cabrera@school.ac",
+    "phone": "+64 (974) 516-2995",
+    "address": "42 Herkimer Street, Bradenville, Minnesota, 6393",
+    "enrolled": "Friday, February 21, 2014 10:30 AM",
+    "attendance": [
+      "s",
+      "e",
+      "s",
+      "p"
+    ]
+  },
+  {
+    "id": 1000679139,
+    "index": 10,
+    "isActive": false,
+    "age": 20,
+    "name": {
+      "first": "Hodges",
+      "last": "Hunt"
+    },
+    "class": "IN760",
+    "ethnicity": "PI",
+    "statusCode": "ENR",
+    "email": "hodges.hunt@school.ac",
+    "phone": "+64 (859) 595-2787",
+    "address": "17 Broadway , Inkerman, West Virginia, 3841",
+    "enrolled": "Tuesday, May 7, 2019 12:01 AM",
+    "attendance": [
+      "a",
+      "a",
+      "p",
+      "a"
+    ]
+  },
+  {
+    "id": 1000281159,
+    "index": 11,
+    "isActive": true,
+    "age": 23,
+    "name": {
+      "first": "Rich",
+      "last": "Hendricks"
+    },
+    "class": "IN750",
+    "ethnicity": "PI",
+    "statusCode": "ENR",
+    "email": "rich.hendricks@school.ac",
+    "phone": "+64 (975) 446-3670",
+    "address": "2 Greenpoint Avenue, Frystown, Massachusetts, 8858",
+    "enrolled": "Friday, March 13, 2015 6:21 AM",
+    "attendance": [
+      "e",
+      "e",
+      "l",
+      "l"
+    ]
+  },
+  {
+    "id": 1000238103,
+    "index": 12,
+    "isActive": true,
+    "age": 28,
+    "name": {
+      "first": "Beulah",
+      "last": "Luna"
+    },
+    "class": "IN790",
+    "ethnicity": "",
+    "statusCode": "ENR",
+    "email": "beulah.luna@school.ac",
+    "phone": "+64 (996) 510-3566",
+    "address": "80 Banker Street, Noxen, Alabama, 512",
+    "enrolled": "Friday, January 29, 2016 11:13 AM",
+    "attendance": [
+      "p",
+      "l",
+      "s",
+      "p"
+    ]
+  },
+  {
+    "id": 1000297751,
+    "index": 13,
+    "isActive": true,
+    "age": 24,
+    "name": {
+      "first": "Gallagher",
+      "last": "Ware"
+    },
+    "class": "IN750",
+    "ethnicity": "INT",
+    "statusCode": "ENR",
+    "email": "gallagher.ware@school.ac",
+    "phone": "+64 (964) 404-2228",
+    "address": "64 Malta Street, Crenshaw, Montana, 6173",
+    "enrolled": "Friday, June 5, 2020 6:35 AM",
+    "attendance": [
+      "a",
+      "p",
+      "p",
+      "p"
+    ]
+  },
+  {
+    "id": 1000109871,
+    "index": 14,
+    "isActive": false,
+    "age": 29,
+    "name": {
+      "first": "Robbie",
+      "last": "Cobb"
+    },
+    "class": "IN760",
+    "ethnicity": "Maori",
+    "statusCode": "ENR",
+    "email": "robbie.cobb@school.ac",
+    "phone": "+64 (959) 505-3517",
+    "address": "25 Banner Avenue, Slovan, Hawaii, 7036",
+    "enrolled": "Sunday, March 11, 2018 5:08 PM",
+    "attendance": [
+      "a",
+      "p",
+      "p",
+      "s"
+    ]
+  },
+  {
+    "id": 1000811805,
+    "index": 15,
+    "isActive": false,
+    "age": 38,
+    "name": {
+      "first": "Mariana",
+      "last": "Rowe"
+    },
+    "class": "IN700",
+    "ethnicity": "INT",
+    "statusCode": "ENR",
+    "email": "mariana.rowe@school.ac",
+    "phone": "+64 (855) 402-2351",
+    "address": "64 Bevy Court, Suitland, Oklahoma, 8614",
+    "enrolled": "Tuesday, June 4, 2019 6:49 AM",
+    "attendance": [
+      "e",
+      "p",
+      "l",
+      "l"
+    ]
+  },
+  {
+    "id": 1000560062,
+    "index": 16,
+    "isActive": false,
+    "age": 35,
+    "name": {
+      "first": "Janine",
+      "last": "Guzman"
+    },
+    "class": "IN750",
+    "ethnicity": "INT",
+    "statusCode": "ENR",
+    "email": "janine.guzman@school.ac",
+    "phone": "+64 (896) 506-2204",
+    "address": "64 Amboy Street, Norfolk, Arizona, 7032",
+    "enrolled": "Tuesday, December 2, 2014 10:06 AM",
+    "attendance": [
+      "p",
+      "p",
+      "l",
+      "e"
+    ]
+  },
+  {
+    "id": 1000326535,
+    "index": 17,
+    "isActive": true,
+    "age": 17,
+    "name": {
+      "first": "Watson",
+      "last": "Underwood"
+    },
+    "class": "IN700",
+    "ethnicity": "",
+    "statusCode": "ENR",
+    "email": "watson.underwood@school.ac",
+    "phone": "+64 (930) 507-3370",
+    "address": "40 Schenck Court, Maxville, Indiana, 862",
+    "enrolled": "Monday, September 15, 2014 5:11 AM",
+    "attendance": [
+      "p",
+      "e",
+      "a",
+      "l"
+    ]
+  },
+  {
+    "id": 1000893960,
+    "index": 18,
+    "isActive": true,
+    "age": 36,
+    "name": {
+      "first": "Black",
+      "last": "Knowles"
+    },
+    "class": "IN790",
+    "ethnicity": "",
+    "statusCode": "ENR",
+    "email": "black.knowles@school.ac",
+    "phone": "+64 (908) 591-2547",
+    "address": "29 Norman Avenue, Finzel, Maine, 5232",
+    "enrolled": "Sunday, December 4, 2016 7:02 AM",
+    "attendance": [
+      "p",
+      "p",
+      "a",
+      "s"
+    ]
+  },
+  {
+    "id": 1000577229,
+    "index": 19,
+    "isActive": false,
+    "age": 23,
+    "name": {
+      "first": "Kathleen",
+      "last": "Moore"
+    },
+    "class": "IN700",
+    "ethnicity": "",
+    "statusCode": "ENR",
+    "email": "kathleen.moore@school.ac",
+    "phone": "+64 (925) 551-3328",
+    "address": "29 Amity Street, Levant, Wisconsin, 5797",
+    "enrolled": "Saturday, June 6, 2020 12:22 AM",
+    "attendance": [
+      "p",
+      "s",
+      "s",
+      "p"
+    ]
+  },
+  {
+    "id": 1000411459,
+    "index": 20,
+    "isActive": false,
+    "age": 24,
+    "name": {
+      "first": "Esmeralda",
+      "last": "Wong"
+    },
+    "class": "IN790",
+    "ethnicity": "INT",
+    "statusCode": "ENR",
+    "email": "esmeralda.wong@school.ac",
+    "phone": "+64 (824) 562-2975",
+    "address": "89 Goodwin Place, Ferney, Marshall Islands, 8872",
+    "enrolled": "Thursday, May 26, 2016 8:18 AM",
+    "attendance": [
+      "a",
+      "p",
+      "p",
+      "e"
+    ]
+  },
+  {
+    "id": 1000482474,
+    "index": 21,
+    "isActive": true,
+    "age": 17,
+    "name": {
+      "first": "Emily",
+      "last": "Russell"
+    },
+    "class": "IN760",
+    "ethnicity": "Maori",
+    "statusCode": "ENR",
+    "email": "emily.russell@school.ac",
+    "phone": "+64 (984) 556-2692",
+    "address": "23 Grove Place, Mulino, Iowa, 2996",
+    "enrolled": "Tuesday, July 24, 2018 1:58 AM",
+    "attendance": [
+      "l",
+      "a",
+      "l",
+      "a"
+    ]
+  },
+  {
+    "id": 1000769346,
+    "index": 22,
+    "isActive": true,
+    "age": 31,
+    "name": {
+      "first": "Reyna",
+      "last": "Clayton"
+    },
+    "class": "IN790",
+    "ethnicity": "",
+    "statusCode": "ENR",
+    "email": "reyna.clayton@school.ac",
+    "phone": "+64 (996) 569-2649",
+    "address": "79 Herkimer Place, Glenville, Virginia, 5699",
+    "enrolled": "Wednesday, May 16, 2018 9:53 PM",
+    "attendance": [
+      "p",
+      "s",
+      "a",
+      "p"
+    ]
+  },
+  {
+    "id": 1000850343,
+    "index": 23,
+    "isActive": true,
+    "age": 37,
+    "name": {
+      "first": "Fulton",
+      "last": "Foley"
+    },
+    "class": "IN750",
+    "ethnicity": "",
+    "statusCode": "ENR",
+    "email": "fulton.foley@school.ac",
+    "phone": "+64 (810) 572-3564",
+    "address": "27 Lamont Court, Jenkinsville, Virgin Islands, 8347",
+    "enrolled": "Monday, May 9, 2016 6:37 AM",
+    "attendance": [
+      "l",
+      "p",
+      "p",
+      "p"
+    ]
+  },
+  {
+    "id": 1000543911,
+    "index": 24,
+    "isActive": false,
+    "age": 24,
+    "name": {
+      "first": "Helena",
+      "last": "Lucas"
+    },
+    "class": "IN790",
+    "ethnicity": "PI",
+    "statusCode": "ENR",
+    "email": "helena.lucas@school.ac",
+    "phone": "+64 (888) 463-2767",
+    "address": "72 Williamsburg Street, Kennedyville, Georgia, 2782",
+    "enrolled": "Friday, January 25, 2019 6:48 PM",
+    "attendance": [
+      "a",
+      "e",
+      "a",
+      "p"
+    ]
+  },
+  {
+    "id": 1000596067,
+    "index": 25,
+    "isActive": true,
+    "age": 25,
+    "name": {
+      "first": "Mia",
+      "last": "Flynn"
+    },
+    "class": "IN790",
+    "ethnicity": "Maori",
+    "statusCode": "ENR",
+    "email": "mia.flynn@school.ac",
+    "phone": "+64 (814) 477-3355",
+    "address": "68 Schermerhorn Street, Goldfield, New Jersey, 2654",
+    "enrolled": "Tuesday, May 10, 2016 7:39 AM",
+    "attendance": [
+      "a",
+      "a",
+      "p",
+      "p"
+    ]
+  },
+  {
+    "id": 1000226189,
+    "index": 26,
+    "isActive": false,
+    "age": 21,
+    "name": {
+      "first": "Mallory",
+      "last": "Velazquez"
+    },
+    "class": "IN790",
+    "ethnicity": "Maori",
+    "statusCode": "ENR",
+    "email": "mallory.velazquez@school.ac",
+    "phone": "+64 (847) 432-2933",
+    "address": "2 Corbin Place, Valmy, Arkansas, 6522",
+    "enrolled": "Saturday, April 11, 2015 3:20 PM",
+    "attendance": [
+      "p",
+      "p",
+      "s",
+      "e"
+    ]
+  },
+  {
+    "id": 1000689265,
+    "index": 27,
+    "isActive": false,
+    "age": 17,
+    "name": {
+      "first": "Contreras",
+      "last": "Parker"
+    },
+    "class": "IN700",
+    "ethnicity": "",
+    "statusCode": "ENR",
+    "email": "contreras.parker@school.ac",
+    "phone": "+64 (890) 442-2266",
+    "address": "63 Lyme Avenue, Hessville, Kentucky, 423",
+    "enrolled": "Tuesday, October 11, 2016 10:14 PM",
+    "attendance": [
+      "p",
+      "l",
+      "s",
+      "a"
+    ]
+  },
+  {
+    "id": 1000253472,
+    "index": 28,
+    "isActive": false,
+    "age": 27,
+    "name": {
+      "first": "Guerrero",
+      "last": "Atkins"
+    },
+    "class": "IN760",
+    "ethnicity": "",
+    "statusCode": "ENR",
+    "email": "guerrero.atkins@school.ac",
+    "phone": "+64 (835) 538-2747",
+    "address": "59 Kingsland Avenue, Williston, Wyoming, 5111",
+    "enrolled": "Monday, June 23, 2014 12:25 PM",
+    "attendance": [
+      "s",
+      "l",
+      "a",
+      "a"
+    ]
+  },
+  {
+    "id": 1000564917,
+    "index": 29,
+    "isActive": true,
+    "age": 33,
+    "name": {
+      "first": "Leanna",
+      "last": "Leonard"
+    },
+    "class": "IN750",
+    "ethnicity": "",
+    "statusCode": "ENR",
+    "email": "leanna.leonard@school.ac",
+    "phone": "+64 (887) 406-3487",
+    "address": "68 Revere Place, Zarephath, North Dakota, 7515",
+    "enrolled": "Monday, March 9, 2015 4:29 PM",
+    "attendance": [
+      "p",
+      "l",
+      "e",
+      "l"
+    ]
+  },
+  {
+    "id": 1000671415,
+    "index": 30,
+    "isActive": false,
+    "age": 38,
+    "name": {
+      "first": "Leann",
+      "last": "Russo"
+    },
+    "class": "IN790",
+    "ethnicity": "INT",
+    "statusCode": "ENR",
+    "email": "leann.russo@school.ac",
+    "phone": "+64 (897) 406-2058",
+    "address": "28 Box Street, Norwood, Northern Mariana Islands, 9433",
+    "enrolled": "Friday, September 1, 2017 12:20 PM",
+    "attendance": [
+      "p",
+      "a",
+      "a",
+      "p"
+    ]
+  },
+  {
+    "id": 1000473703,
+    "index": 31,
+    "isActive": true,
+    "age": 31,
+    "name": {
+      "first": "Alyssa",
+      "last": "Stuart"
+    },
+    "class": "IN750",
+    "ethnicity": "",
+    "statusCode": "ENR",
+    "email": "alyssa.stuart@school.ac",
+    "phone": "+64 (803) 530-2253",
+    "address": "94 Agate Court, Gorham, New Hampshire, 1746",
+    "enrolled": "Wednesday, November 9, 2016 4:04 PM",
+    "attendance": [
+      "a",
+      "p",
+      "p",
+      "s"
+    ]
+  },
+  {
+    "id": 1000132320,
+    "index": 32,
+    "isActive": false,
+    "age": 30,
+    "name": {
+      "first": "Liz",
+      "last": "Pennington"
+    },
+    "class": "IN750",
+    "ethnicity": "",
+    "statusCode": "ENR",
+    "email": "liz.pennington@school.ac",
+    "phone": "+64 (817) 471-2860",
+    "address": "6 Oak Street, Trucksville, Alaska, 1425",
+    "enrolled": "Tuesday, June 4, 2019 1:42 PM",
+    "attendance": [
+      "p",
+      "a",
+      "l",
+      "p"
+    ]
+  },
+  {
+    "id": 1000427879,
+    "index": 33,
+    "isActive": true,
+    "age": 20,
+    "name": {
+      "first": "Jacobson",
+      "last": "Suarez"
+    },
+    "class": "IN790",
+    "ethnicity": "PI",
+    "statusCode": "ENR",
+    "email": "jacobson.suarez@school.ac",
+    "phone": "+64 (992) 562-3855",
+    "address": "78 Bergen Court, National, Kansas, 6870",
+    "enrolled": "Monday, December 7, 2015 2:58 PM",
+    "attendance": [
+      "p",
+      "p",
+      "e",
+      "p"
+    ]
+  },
+  {
+    "id": 1000775770,
+    "index": 34,
+    "isActive": false,
+    "age": 35,
+    "name": {
+      "first": "Romero",
+      "last": "Mcgee"
+    },
+    "class": "IN760",
+    "ethnicity": "",
+    "statusCode": "ENR",
+    "email": "romero.mcgee@school.ac",
+    "phone": "+64 (818) 507-2233",
+    "address": "25 Woodruff Avenue, Glidden, Rhode Island, 6999",
+    "enrolled": "Thursday, August 15, 2019 12:33 AM",
+    "attendance": [
+      "e",
+      "p",
+      "p",
+      "e"
+    ]
+  },
+  {
+    "id": 1000265799,
+    "index": 35,
+    "isActive": false,
+    "age": 35,
+    "name": {
+      "first": "Phoebe",
+      "last": "Montoya"
+    },
+    "class": "IN750",
+    "ethnicity": "PI",
+    "statusCode": "ENR",
+    "email": "phoebe.montoya@school.ac",
+    "phone": "+64 (854) 508-3789",
+    "address": "99 Kiely Place, Oley, Puerto Rico, 6221",
+    "enrolled": "Thursday, September 24, 2015 6:33 AM",
+    "attendance": [
+      "p",
+      "p",
+      "p",
+      "p"
+    ]
+  },
+  {
+    "id": 1000648835,
+    "index": 36,
+    "isActive": true,
+    "age": 33,
+    "name": {
+      "first": "Bridgette",
+      "last": "Barrera"
+    },
+    "class": "IN760",
+    "ethnicity": "",
+    "statusCode": "ENR",
+    "email": "bridgette.barrera@school.ac",
+    "phone": "+64 (979) 592-3551",
+    "address": "51 Lawn Court, Grazierville, North Carolina, 2592",
+    "enrolled": "Monday, May 8, 2017 9:59 AM",
+    "attendance": [
+      "e",
+      "a",
+      "p",
+      "p"
+    ]
+  },
+  {
+    "id": 1000466520,
+    "index": 37,
+    "isActive": true,
+    "age": 17,
+    "name": {
+      "first": "Melba",
+      "last": "Harrington"
+    },
+    "class": "IN790",
+    "ethnicity": "",
+    "statusCode": "ENR",
+    "email": "melba.harrington@school.ac",
+    "phone": "+64 (920) 543-3568",
+    "address": "51 Eckford Street, Lindisfarne, Tennessee, 1057",
+    "enrolled": "Saturday, July 18, 2020 1:19 PM",
+    "attendance": [
+      "p",
+      "p",
+      "s",
+      "p"
+    ]
+  },
+  {
+    "id": 1000309210,
+    "index": 38,
+    "isActive": false,
+    "age": 18,
+    "name": {
+      "first": "Golden",
+      "last": "Walter"
+    },
+    "class": "IN790",
+    "ethnicity": "",
+    "statusCode": "ENR",
+    "email": "golden.walter@school.ac",
+    "phone": "+64 (819) 434-2698",
+    "address": "78 Bassett Avenue, Olney, Palau, 3406",
+    "enrolled": "Thursday, October 10, 2019 4:27 PM",
+    "attendance": [
+      "p",
+      "p",
+      "a",
+      "p"
+    ]
+  },
+  {
+    "id": 1000282146,
+    "index": 39,
+    "isActive": false,
+    "age": 31,
+    "name": {
+      "first": "Oliver",
+      "last": "Figueroa"
+    },
+    "class": "IN790",
+    "ethnicity": "",
+    "statusCode": "ENR",
+    "email": "oliver.figueroa@school.ac",
+    "phone": "+64 (844) 536-2439",
+    "address": "73 Veranda Place, Sena, New York, 2678",
+    "enrolled": "Friday, June 24, 2016 9:57 PM",
+    "attendance": [
+      "p",
+      "l",
+      "p",
+      "p"
+    ]
+  },
+  {
+    "id": 1000658383,
+    "index": 40,
+    "isActive": false,
+    "age": 38,
+    "name": {
+      "first": "Cote",
+      "last": "Watts"
+    },
+    "class": "IN760",
+    "ethnicity": "",
+    "statusCode": "ENR",
+    "email": "cote.watts@school.ac",
+    "phone": "+64 (997) 528-3383",
+    "address": "9 Remsen Street, Grenelefe, Vermont, 6875",
+    "enrolled": "Wednesday, October 7, 2015 6:03 PM",
+    "attendance": [
+      "p",
+      "p",
+      "l",
+      "s"
+    ]
+  },
+  {
+    "id": 1000818466,
+    "index": 41,
+    "isActive": false,
+    "age": 30,
+    "name": {
+      "first": "Casey",
+      "last": "Poole"
+    },
+    "class": "IN700",
+    "ethnicity": "Maori",
+    "statusCode": "ENR",
+    "email": "casey.poole@school.ac",
+    "phone": "+64 (855) 581-3399",
+    "address": "35 Havens Place, Drummond, New Mexico, 4856",
+    "enrolled": "Tuesday, May 12, 2020 4:53 PM",
+    "attendance": [
+      "p",
+      "a",
+      "l",
+      "p"
+    ]
+  },
+  {
+    "id": 1000110060,
+    "index": 42,
+    "isActive": true,
+    "age": 20,
+    "name": {
+      "first": "Marta",
+      "last": "Kline"
+    },
+    "class": "IN700",
+    "ethnicity": "",
+    "statusCode": "ENR",
+    "email": "marta.kline@school.ac",
+    "phone": "+64 (983) 462-2618",
+    "address": "71 Burnett Street, Floris, District Of Columbia, 5901",
+    "enrolled": "Wednesday, January 21, 2015 9:32 PM",
+    "attendance": [
+      "l",
+      "p",
+      "s",
+      "a"
+    ]
+  },
+  {
+    "id": 1000485889,
+    "index": 43,
+    "isActive": true,
+    "age": 33,
+    "name": {
+      "first": "Shannon",
+      "last": "Duke"
+    },
+    "class": "IN750",
+    "ethnicity": "PI",
+    "statusCode": "ENR",
+    "email": "shannon.duke@school.ac",
+    "phone": "+64 (982) 544-3939",
+    "address": "2 Truxton Street, Nile, American Samoa, 7112",
+    "enrolled": "Wednesday, July 17, 2019 9:21 AM",
+    "attendance": [
+      "p",
+      "s",
+      "l",
+      "a"
+    ]
+  },
+  {
+    "id": 1000461316,
+    "index": 44,
+    "isActive": true,
+    "age": 35,
+    "name": {
+      "first": "Janell",
+      "last": "Riley"
+    },
+    "class": "IN700",
+    "ethnicity": "",
+    "statusCode": "ENR",
+    "email": "janell.riley@school.ac",
+    "phone": "+64 (981) 561-2007",
+    "address": "54 Danforth Street, Greenwich, Federated States Of Micronesia, 942",
+    "enrolled": "Thursday, February 23, 2017 9:26 AM",
+    "attendance": [
+      "p",
+      "a",
+      "e",
+      "p"
+    ]
+  },
+  {
+    "id": 1000371128,
+    "index": 45,
+    "isActive": false,
+    "age": 18,
+    "name": {
+      "first": "Doyle",
+      "last": "Bailey"
+    },
+    "class": "IN750",
+    "ethnicity": "Maori",
+    "statusCode": "ENR",
+    "email": "doyle.bailey@school.ac",
+    "phone": "+64 (833) 567-2303",
+    "address": "24 Ridge Court, Ryderwood, Michigan, 4080",
+    "enrolled": "Saturday, August 2, 2014 6:08 PM",
+    "attendance": [
+      "a",
+      "s",
+      "p",
+      "s"
+    ]
+  },
+  {
+    "id": 1000876352,
+    "index": 46,
+    "isActive": true,
+    "age": 27,
+    "name": {
+      "first": "Christian",
+      "last": "Callahan"
+    },
+    "class": "IN750",
+    "ethnicity": "Maori",
+    "statusCode": "ENR",
+    "email": "christian.callahan@school.ac",
+    "phone": "+64 (835) 557-2297",
+    "address": "95 Hawthorne Street, Clarence, Oregon, 6760",
+    "enrolled": "Tuesday, December 23, 2014 2:41 PM",
+    "attendance": [
+      "p",
+      "p",
+      "a",
+      "p"
+    ]
+  },
+  {
+    "id": 1000308862,
+    "index": 47,
+    "isActive": true,
+    "age": 30,
+    "name": {
+      "first": "Justine",
+      "last": "Hicks"
+    },
+    "class": "IN750",
+    "ethnicity": "",
+    "statusCode": "ENR",
+    "email": "justine.hicks@school.ac",
+    "phone": "+64 (993) 570-2339",
+    "address": "50 Kenmore Court, Stouchsburg, Colorado, 9036",
+    "enrolled": "Friday, May 6, 2016 11:02 PM",
+    "attendance": [
+      "p",
+      "p",
+      "s",
+      "p"
+    ]
+  },
+  {
+    "id": 1000406807,
+    "index": 48,
+    "isActive": true,
+    "age": 25,
+    "name": {
+      "first": "Sally",
+      "last": "Cortez"
+    },
+    "class": "IN750",
+    "ethnicity": "",
+    "statusCode": "ENR",
+    "email": "sally.cortez@school.ac",
+    "phone": "+64 (879) 562-2538",
+    "address": "58 Visitation Place, Cavalero, Ohio, 5551",
+    "enrolled": "Sunday, October 20, 2019 4:03 PM",
+    "attendance": [
+      "l",
+      "e",
+      "e",
+      "a"
+    ]
+  },
+  {
+    "id": 1000161854,
+    "index": 49,
+    "isActive": true,
+    "age": 24,
+    "name": {
+      "first": "Cathy",
+      "last": "Bass"
+    },
+    "class": "IN700",
+    "ethnicity": "",
+    "statusCode": "ENR",
+    "email": "cathy.bass@school.ac",
+    "phone": "+64 (884) 567-2250",
+    "address": "82 Farragut Road, Detroit, Maryland, 2297",
+    "enrolled": "Saturday, December 22, 2018 1:23 PM",
+    "attendance": [
+      "l",
+      "l",
+      "a",
+      "e"
+    ]
+  },
+  {
+    "id": 1000834047,
+    "index": 0,
+    "isActive": true,
+    "age": 22,
+    "name": {
+      "first": "Rochelle",
+      "last": "Higgins"
+    },
+    "class": "IN700",
+    "ethnicity": "PI",
+    "statusCode": "ENR",
+    "email": "rochelle.higgins@school.ac",
+    "phone": "+64 (838) 557-3749",
+    "address": "90 Gaylord Drive, Adamstown, Florida, 2613",
+    "enrolled": "Wednesday, January 11, 2017 3:05 PM",
+    "attendance": [
+      "l",
+      "p",
+      "p",
+      "a"
+    ]
+  },
+  {
+    "id": 1000296533,
+    "index": 1,
+    "isActive": true,
+    "age": 26,
+    "name": {
+      "first": "Barrett",
+      "last": "Johnston"
+    },
+    "class": "IN790",
+    "ethnicity": "Maori",
+    "statusCode": "ENR",
+    "email": "barrett.johnston@school.ac",
+    "phone": "+64 (999) 481-2083",
+    "address": "13 Melba Court, Steinhatchee, Texas, 3728",
+    "enrolled": "Wednesday, January 22, 2014 9:19 PM",
+    "attendance": [
+      "e",
+      "a",
+      "p",
+      "e"
+    ]
+  },
+  {
+    "id": 1000666196,
+    "index": 2,
+    "isActive": true,
+    "age": 30,
+    "name": {
+      "first": "Rojas",
+      "last": "Watkins"
+    },
+    "class": "IN700",
+    "ethnicity": "INT",
+    "statusCode": "ENR",
+    "email": "rojas.watkins@school.ac",
+    "phone": "+64 (969) 511-2524",
+    "address": "74 Tapscott Street, Valmy, Oklahoma, 435",
+    "enrolled": "Friday, March 11, 2016 12:33 AM",
+    "attendance": [
+      "p",
+      "a",
+      "p",
+      "p"
+    ]
+  },
+  {
+    "id": 1000108617,
+    "index": 3,
+    "isActive": true,
+    "age": 35,
+    "name": {
+      "first": "Priscilla",
+      "last": "Hubbard"
+    },
+    "class": "IN790",
+    "ethnicity": "INT",
+    "statusCode": "ENR",
+    "email": "priscilla.hubbard@school.ac",
+    "phone": "+64 (993) 511-2703",
+    "address": "9 Clifton Place, Broadlands, Northern Mariana Islands, 6890",
+    "enrolled": "Sunday, April 3, 2016 6:23 AM",
+    "attendance": [
+      "l",
+      "l",
+      "e",
+      "a"
+    ]
+  },
+  {
+    "id": 1000767102,
+    "index": 4,
+    "isActive": false,
+    "age": 26,
+    "name": {
+      "first": "Curtis",
+      "last": "Craft"
+    },
+    "class": "IN750",
+    "ethnicity": "INT",
+    "statusCode": "ENR",
+    "email": "curtis.craft@school.ac",
+    "phone": "+64 (834) 444-2741",
+    "address": "31 Delmonico Place, Iberia, Maine, 396",
+    "enrolled": "Saturday, January 23, 2016 2:16 AM",
+    "attendance": [
+      "l",
+      "p",
+      "a",
+      "p"
+    ]
+  },
+  {
+    "id": 1000680615,
+    "index": 5,
+    "isActive": false,
+    "age": 31,
+    "name": {
+      "first": "James",
+      "last": "Cherry"
+    },
+    "class": "IN750",
+    "ethnicity": "Maori",
+    "statusCode": "ENR",
+    "email": "james.cherry@school.ac",
+    "phone": "+64 (983) 570-3675",
+    "address": "40 Norwood Avenue, Greenock, Tennessee, 6707",
+    "enrolled": "Thursday, September 8, 2016 1:27 PM",
+    "attendance": [
+      "s",
+      "l",
+      "l",
+      "e"
+    ]
+  },
+  {
+    "id": 1000852663,
+    "index": 6,
+    "isActive": true,
+    "age": 20,
+    "name": {
+      "first": "Raquel",
+      "last": "Wall"
+    },
+    "class": "IN750",
+    "ethnicity": "",
+    "statusCode": "ENR",
+    "email": "raquel.wall@school.ac",
+    "phone": "+64 (852) 481-2955",
+    "address": "72 Lake Avenue, Grandview, Minnesota, 1560",
+    "enrolled": "Thursday, April 7, 2016 11:57 AM",
+    "attendance": [
+      "s",
+      "l",
+      "p",
+      "e"
+    ]
+  },
+  {
+    "id": 1000399913,
+    "index": 7,
+    "isActive": false,
+    "age": 33,
+    "name": {
+      "first": "Robinson",
+      "last": "Cannon"
+    },
+    "class": "IN760",
+    "ethnicity": "PI",
+    "statusCode": "ENR",
+    "email": "robinson.cannon@school.ac",
+    "phone": "+64 (967) 564-2865",
+    "address": "38 Evergreen Avenue, Torboy, North Carolina, 3676",
+    "enrolled": "Tuesday, October 31, 2017 7:42 AM",
+    "attendance": [
+      "p",
+      "l",
+      "p",
+      "a"
+    ]
+  },
+  {
+    "id": 1000597648,
+    "index": 8,
+    "isActive": false,
+    "age": 30,
+    "name": {
+      "first": "Hensley",
+      "last": "Clay"
+    },
+    "class": "IN700",
+    "ethnicity": "PI",
+    "statusCode": "ENR",
+    "email": "hensley.clay@school.ac",
+    "phone": "+64 (983) 600-3534",
+    "address": "21 Schermerhorn Street, Moraida, Pennsylvania, 7173",
+    "enrolled": "Friday, October 11, 2019 8:35 PM",
+    "attendance": [
+      "p",
+      "p",
+      "e",
+      "e"
+    ]
+  },
+  {
+    "id": 1000467333,
+    "index": 9,
+    "isActive": false,
+    "age": 36,
+    "name": {
+      "first": "Simpson",
+      "last": "Riley"
+    },
+    "class": "IN750",
+    "ethnicity": "PI",
+    "statusCode": "ENR",
+    "email": "simpson.riley@school.ac",
+    "phone": "+64 (836) 503-3541",
+    "address": "9 Madeline Court, Marysville, North Dakota, 2041",
+    "enrolled": "Wednesday, March 20, 2019 6:49 PM",
+    "attendance": [
+      "p",
+      "a",
+      "p",
+      "s"
+    ]
+  },
+  {
+    "id": 1000847021,
+    "index": 10,
+    "isActive": false,
+    "age": 36,
+    "name": {
+      "first": "Kara",
+      "last": "Frost"
+    },
+    "class": "IN700",
+    "ethnicity": "",
+    "statusCode": "ENR",
+    "email": "kara.frost@school.ac",
+    "phone": "+64 (818) 522-3012",
+    "address": "85 Tabor Court, Morgandale, Arkansas, 2792",
+    "enrolled": "Wednesday, February 5, 2020 7:27 AM",
+    "attendance": [
+      "p",
+      "s",
+      "p",
+      "a"
+    ]
+  },
+  {
+    "id": 1000182075,
+    "index": 11,
+    "isActive": true,
+    "age": 22,
+    "name": {
+      "first": "Cooke",
+      "last": "Cantu"
+    },
+    "class": "IN700",
+    "ethnicity": "",
+    "statusCode": "ENR",
+    "email": "cooke.cantu@school.ac",
+    "phone": "+64 (869) 427-3666",
+    "address": "2 Emmons Avenue, Brewster, Nevada, 1793",
+    "enrolled": "Monday, November 26, 2018 4:22 PM",
+    "attendance": [
+      "s",
+      "e",
+      "s",
+      "p"
+    ]
+  },
+  {
+    "id": 1000575388,
+    "index": 12,
+    "isActive": false,
+    "age": 37,
+    "name": {
+      "first": "Walker",
+      "last": "Rice"
+    },
+    "class": "IN700",
+    "ethnicity": "INT",
+    "statusCode": "ENR",
+    "email": "walker.rice@school.ac",
+    "phone": "+64 (980) 434-2298",
+    "address": "16 Ridge Court, Belmont, Guam, 7534",
+    "enrolled": "Friday, February 13, 2015 1:26 PM",
+    "attendance": [
+      "p",
+      "s",
+      "l",
+      "p"
+    ]
+  },
+  {
+    "id": 1000218571,
+    "index": 13,
+    "isActive": true,
+    "age": 28,
+    "name": {
+      "first": "Fannie",
+      "last": "Sherman"
+    },
+    "class": "IN790",
+    "ethnicity": "",
+    "statusCode": "ENR",
+    "email": "fannie.sherman@school.ac",
+    "phone": "+64 (971) 433-3353",
+    "address": "68 Elton Street, Gardiner, Virginia, 2188",
+    "enrolled": "Thursday, January 29, 2015 12:47 AM",
+    "attendance": [
+      "s",
+      "l",
+      "p",
+      "s"
+    ]
+  },
+  {
+    "id": 1000612728,
+    "index": 14,
+    "isActive": false,
+    "age": 32,
+    "name": {
+      "first": "Jodi",
+      "last": "Murray"
+    },
+    "class": "IN760",
+    "ethnicity": "",
+    "statusCode": "ENR",
+    "email": "jodi.murray@school.ac",
+    "phone": "+64 (931) 568-3755",
+    "address": "89 Hampton Place, Mahtowa, Federated States Of Micronesia, 5402",
+    "enrolled": "Sunday, July 29, 2018 3:24 PM",
+    "attendance": [
+      "p",
+      "e",
+      "l",
+      "e"
+    ]
+  },
+  {
+    "id": 1000678160,
+    "index": 15,
+    "isActive": false,
+    "age": 21,
+    "name": {
+      "first": "Gloria",
+      "last": "Pugh"
+    },
+    "class": "IN790",
+    "ethnicity": "Maori",
+    "statusCode": "ENR",
+    "email": "gloria.pugh@school.ac",
+    "phone": "+64 (989) 443-2926",
+    "address": "56 Bush Street, Fontanelle, South Carolina, 1294",
+    "enrolled": "Thursday, April 3, 2014 8:44 PM",
+    "attendance": [
+      "e",
+      "l",
+      "s",
+      "p"
+    ]
+  },
+  {
+    "id": 1000403867,
+    "index": 16,
+    "isActive": false,
+    "age": 30,
+    "name": {
+      "first": "Garner",
+      "last": "King"
+    },
+    "class": "IN760",
+    "ethnicity": "INT",
+    "statusCode": "ENR",
+    "email": "garner.king@school.ac",
+    "phone": "+64 (889) 435-3763",
+    "address": "7 Hendrix Street, Bartley, Maryland, 9979",
+    "enrolled": "Saturday, February 28, 2015 4:51 AM",
+    "attendance": [
+      "e",
+      "a",
+      "s",
+      "l"
+    ]
+  },
+  {
+    "id": 1000451186,
+    "index": 17,
+    "isActive": false,
+    "age": 35,
+    "name": {
+      "first": "Lindsay",
+      "last": "Olson"
+    },
+    "class": "IN760",
+    "ethnicity": "INT",
+    "statusCode": "ENR",
+    "email": "lindsay.olson@school.ac",
+    "phone": "+64 (981) 451-2588",
+    "address": "59 Cyrus Avenue, Lithium, Connecticut, 4253",
+    "enrolled": "Friday, December 8, 2017 7:35 PM",
+    "attendance": [
+      "l",
+      "l",
+      "a",
+      "s"
+    ]
+  },
+  {
+    "id": 1000502148,
+    "index": 18,
+    "isActive": false,
+    "age": 26,
+    "name": {
+      "first": "Tyson",
+      "last": "Bowen"
+    },
+    "class": "IN700",
+    "ethnicity": "",
+    "statusCode": "ENR",
+    "email": "tyson.bowen@school.ac",
+    "phone": "+64 (808) 482-2461",
+    "address": "86 Gunther Place, Wiscon, Colorado, 2244",
+    "enrolled": "Monday, August 17, 2020 3:19 AM",
+    "attendance": [
+      "l",
+      "a",
+      "s",
+      "e"
+    ]
+  },
+  {
+    "id": 1000537964,
+    "index": 19,
+    "isActive": true,
+    "age": 29,
+    "name": {
+      "first": "Maddox",
+      "last": "Whitley"
+    },
+    "class": "IN700",
+    "ethnicity": "INT",
+    "statusCode": "ENR",
+    "email": "maddox.whitley@school.ac",
+    "phone": "+64 (941) 598-3789",
+    "address": "58 Harman Street, Bentonville, Indiana, 9689",
+    "enrolled": "Tuesday, October 6, 2020 7:48 PM",
+    "attendance": [
+      "p",
+      "p",
+      "s",
+      "e"
+    ]
+  },
+  {
+    "id": 1000849948,
+    "index": 20,
+    "isActive": true,
+    "age": 35,
+    "name": {
+      "first": "Adkins",
+      "last": "Reilly"
+    },
+    "class": "IN750",
+    "ethnicity": "",
+    "statusCode": "ENR",
+    "email": "adkins.reilly@school.ac",
+    "phone": "+64 (823) 518-3045",
+    "address": "62 Willow Street, Fairmount, Virgin Islands, 9455",
+    "enrolled": "Sunday, December 23, 2018 5:31 AM",
+    "attendance": [
+      "p",
+      "a",
+      "a",
+      "e"
+    ]
+  },
+  {
+    "id": 1000771933,
+    "index": 21,
+    "isActive": true,
+    "age": 23,
+    "name": {
+      "first": "Sondra",
+      "last": "Harris"
+    },
+    "class": "IN790",
+    "ethnicity": "",
+    "statusCode": "ENR",
+    "email": "sondra.harris@school.ac",
+    "phone": "+64 (933) 476-2993",
+    "address": "42 Vernon Avenue, Allamuchy, Nebraska, 7697",
+    "enrolled": "Monday, April 3, 2017 1:24 PM",
+    "attendance": [
+      "l",
+      "p",
+      "s",
+      "e"
+    ]
+  },
+  {
+    "id": 1000422163,
+    "index": 22,
+    "isActive": false,
+    "age": 25,
+    "name": {
+      "first": "Marci",
+      "last": "Santiago"
+    },
+    "class": "IN750",
+    "ethnicity": "",
+    "statusCode": "ENR",
+    "email": "marci.santiago@school.ac",
+    "phone": "+64 (887) 600-3823",
+    "address": "58 Willoughby Street, Cascades, New Hampshire, 8871",
+    "enrolled": "Tuesday, November 21, 2017 12:56 AM",
+    "attendance": [
+      "e",
+      "l",
+      "p",
+      "p"
+    ]
+  },
+  {
+    "id": 1000438711,
+    "index": 23,
+    "isActive": true,
+    "age": 19,
+    "name": {
+      "first": "Lauri",
+      "last": "Kline"
+    },
+    "class": "IN790",
+    "ethnicity": "",
+    "statusCode": "ENR",
+    "email": "lauri.kline@school.ac",
+    "phone": "+64 (861) 442-3890",
+    "address": "84 Hopkins Street, Byrnedale, Hawaii, 1633",
+    "enrolled": "Monday, April 22, 2019 1:52 PM",
+    "attendance": [
+      "a",
+      "p",
+      "e",
+      "p"
+    ]
+  },
+  {
+    "id": 1000700541,
+    "index": 24,
+    "isActive": true,
+    "age": 34,
+    "name": {
+      "first": "Lucy",
+      "last": "Nielsen"
+    },
+    "class": "IN700",
+    "ethnicity": "INT",
+    "statusCode": "ENR",
+    "email": "lucy.nielsen@school.ac",
+    "phone": "+64 (965) 431-3298",
+    "address": "14 Jerome Avenue, Nettie, New Mexico, 2895",
+    "enrolled": "Saturday, February 2, 2019 6:48 PM",
+    "attendance": [
+      "p",
+      "a",
+      "p",
+      "s"
+    ]
+  },
+  {
+    "id": 1000488968,
+    "index": 25,
+    "isActive": true,
+    "age": 19,
+    "name": {
+      "first": "Little",
+      "last": "Talley"
+    },
+    "class": "IN790",
+    "ethnicity": "Maori",
+    "statusCode": "ENR",
+    "email": "little.talley@school.ac",
+    "phone": "+64 (844) 514-2903",
+    "address": "33 Johnson Street, Savannah, West Virginia, 8985",
+    "enrolled": "Wednesday, December 23, 2015 6:28 AM",
+    "attendance": [
+      "p",
+      "a",
+      "e",
+      "p"
+    ]
+  },
+  {
+    "id": 1000257832,
+    "index": 26,
+    "isActive": true,
+    "age": 23,
+    "name": {
+      "first": "Salazar",
+      "last": "Goodman"
+    },
+    "class": "IN700",
+    "ethnicity": "INT",
+    "statusCode": "ENR",
+    "email": "salazar.goodman@school.ac",
+    "phone": "+64 (898) 525-3099",
+    "address": "53 Rogers Avenue, Ventress, Puerto Rico, 6601",
+    "enrolled": "Sunday, June 22, 2014 6:25 AM",
+    "attendance": [
+      "p",
+      "e",
+      "e",
+      "p"
+    ]
+  },
+  {
+    "id": 1000713326,
+    "index": 27,
+    "isActive": true,
+    "age": 29,
+    "name": {
+      "first": "Evangelina",
+      "last": "Marks"
+    },
+    "class": "IN790",
+    "ethnicity": "",
+    "statusCode": "ENR",
+    "email": "evangelina.marks@school.ac",
+    "phone": "+64 (856) 588-2189",
+    "address": "24 Flatbush Avenue, Caberfae, District Of Columbia, 2154",
+    "enrolled": "Wednesday, September 6, 2017 12:53 PM",
+    "attendance": [
+      "a",
+      "p",
+      "p",
+      "p"
+    ]
+  },
+  {
+    "id": 1000727568,
+    "index": 28,
+    "isActive": false,
+    "age": 22,
+    "name": {
+      "first": "Gretchen",
+      "last": "Newman"
+    },
+    "class": "IN760",
+    "ethnicity": "",
+    "statusCode": "ENR",
+    "email": "gretchen.newman@school.ac",
+    "phone": "+64 (993) 468-3211",
+    "address": "21 President Street, Reno, American Samoa, 4441",
+    "enrolled": "Tuesday, June 25, 2019 1:47 AM",
+    "attendance": [
+      "p",
+      "l",
+      "e",
+      "l"
+    ]
+  },
+  {
+    "id": 1000416003,
+    "index": 29,
+    "isActive": false,
+    "age": 25,
+    "name": {
+      "first": "Guerra",
+      "last": "Nguyen"
+    },
+    "class": "IN700",
+    "ethnicity": "",
+    "statusCode": "ENR",
+    "email": "guerra.nguyen@school.ac",
+    "phone": "+64 (990) 448-2177",
+    "address": "49 Madoc Avenue, Sena, Utah, 3531",
+    "enrolled": "Monday, July 6, 2020 11:43 PM",
+    "attendance": [
+      "a",
+      "p",
+      "l",
+      "a"
+    ]
+  },
+  {
+    "id": 1000113434,
+    "index": 30,
+    "isActive": false,
+    "age": 21,
+    "name": {
+      "first": "Nolan",
+      "last": "Norton"
+    },
+    "class": "IN750",
+    "ethnicity": "PI",
+    "statusCode": "ENR",
+    "email": "nolan.norton@school.ac",
+    "phone": "+64 (977) 577-2363",
+    "address": "78 Railroad Avenue, Cartwright, Palau, 3616",
+    "enrolled": "Tuesday, February 21, 2017 10:53 AM",
+    "attendance": [
+      "p",
+      "p",
+      "p",
+      "a"
+    ]
+  },
+  {
+    "id": 1000226763,
+    "index": 31,
+    "isActive": true,
+    "age": 35,
+    "name": {
+      "first": "Lidia",
+      "last": "Gutierrez"
+    },
+    "class": "IN790",
+    "ethnicity": "",
+    "statusCode": "ENR",
+    "email": "lidia.gutierrez@school.ac",
+    "phone": "+64 (985) 467-3776",
+    "address": "25 Grand Street, Bordelonville, Vermont, 4177",
+    "enrolled": "Tuesday, May 10, 2016 2:41 AM",
+    "attendance": [
+      "p",
+      "l",
+      "a",
+      "p"
+    ]
+  },
+  {
+    "id": 1000451300,
+    "index": 32,
+    "isActive": true,
+    "age": 22,
+    "name": {
+      "first": "Madelyn",
+      "last": "Jordan"
+    },
+    "class": "IN760",
+    "ethnicity": "Maori",
+    "statusCode": "ENR",
+    "email": "madelyn.jordan@school.ac",
+    "phone": "+64 (965) 591-2447",
+    "address": "85 National Drive, Hollymead, Kansas, 7283",
+    "enrolled": "Tuesday, September 24, 2019 9:57 AM",
+    "attendance": [
+      "e",
+      "l",
+      "a",
+      "p"
+    ]
+  },
+  {
+    "id": 1000186360,
+    "index": 33,
+    "isActive": false,
+    "age": 24,
+    "name": {
+      "first": "Vega",
+      "last": "House"
+    },
+    "class": "IN700",
+    "ethnicity": "INT",
+    "statusCode": "ENR",
+    "email": "vega.house@school.ac",
+    "phone": "+64 (836) 502-3283",
+    "address": "50 Exeter Street, Cetronia, New Jersey, 9250",
+    "enrolled": "Tuesday, December 26, 2017 4:40 PM",
+    "attendance": [
+      "l",
+      "p",
+      "s",
+      "l"
+    ]
+  },
+  {
+    "id": 1000599373,
+    "index": 34,
+    "isActive": true,
+    "age": 19,
+    "name": {
+      "first": "Paul",
+      "last": "Wong"
+    },
+    "class": "IN760",
+    "ethnicity": "",
+    "statusCode": "ENR",
+    "email": "paul.wong@school.ac",
+    "phone": "+64 (818) 492-2974",
+    "address": "79 Lincoln Avenue, Marbury, South Dakota, 1053",
+    "enrolled": "Sunday, March 27, 2016 2:15 AM",
+    "attendance": [
+      "a",
+      "p",
+      "l",
+      "p"
+    ]
+  },
+  {
+    "id": 1000374448,
+    "index": 35,
+    "isActive": true,
+    "age": 21,
+    "name": {
+      "first": "Lambert",
+      "last": "Washington"
+    },
+    "class": "IN700",
+    "ethnicity": "",
+    "statusCode": "ENR",
+    "email": "lambert.washington@school.ac",
+    "phone": "+64 (813) 511-2623",
+    "address": "96 Rockwell Place, Riner, Michigan, 1185",
+    "enrolled": "Monday, June 23, 2014 3:28 AM",
+    "attendance": [
+      "p",
+      "a",
+      "p",
+      "p"
+    ]
+  },
+  {
+    "id": 1000391371,
+    "index": 36,
+    "isActive": true,
+    "age": 17,
+    "name": {
+      "first": "Alston",
+      "last": "Tyson"
+    },
+    "class": "IN760",
+    "ethnicity": "",
+    "statusCode": "ENR",
+    "email": "alston.tyson@school.ac",
+    "phone": "+64 (876) 585-2259",
+    "address": "1 McDonald Avenue, Belfair, Mississippi, 2813",
+    "enrolled": "Sunday, January 22, 2017 11:53 PM",
+    "attendance": [
+      "l",
+      "e",
+      "p",
+      "l"
+    ]
+  },
+  {
+    "id": 1000761726,
+    "index": 37,
+    "isActive": true,
+    "age": 26,
+    "name": {
+      "first": "Buck",
+      "last": "Munoz"
+    },
+    "class": "IN700",
+    "ethnicity": "INT",
+    "statusCode": "ENR",
+    "email": "buck.munoz@school.ac",
+    "phone": "+64 (993) 459-3034",
+    "address": "45 Bethel Loop, Nicholson, Arizona, 3759",
+    "enrolled": "Thursday, November 2, 2017 7:52 PM",
+    "attendance": [
+      "p",
+      "e",
+      "p",
+      "s"
+    ]
+  },
+  {
+    "id": 1000654766,
+    "index": 38,
+    "isActive": true,
+    "age": 25,
+    "name": {
+      "first": "Jacklyn",
+      "last": "Kane"
+    },
+    "class": "IN790",
+    "ethnicity": "",
+    "statusCode": "ENR",
+    "email": "jacklyn.kane@school.ac",
+    "phone": "+64 (989) 564-2599",
+    "address": "23 Coles Street, Cashtown, Ohio, 7620",
+    "enrolled": "Tuesday, July 30, 2019 10:35 PM",
+    "attendance": [
+      "p",
+      "p",
+      "p",
+      "l"
+    ]
+  },
+  {
+    "id": 1000394869,
+    "index": 39,
+    "isActive": true,
+    "age": 35,
+    "name": {
+      "first": "Glass",
+      "last": "Glover"
+    },
+    "class": "IN700",
+    "ethnicity": "PI",
+    "statusCode": "ENR",
+    "email": "glass.glover@school.ac",
+    "phone": "+64 (865) 498-2818",
+    "address": "16 Court Street, Jacksonwald, New York, 681",
+    "enrolled": "Thursday, June 12, 2014 2:37 AM",
+    "attendance": [
+      "p",
+      "s",
+      "e",
+      "p"
+    ]
+  },
+  {
+    "id": 1000370764,
+    "index": 40,
+    "isActive": true,
+    "age": 29,
+    "name": {
+      "first": "Rollins",
+      "last": "Jacobs"
+    },
+    "class": "IN790",
+    "ethnicity": "",
+    "statusCode": "ENR",
+    "email": "rollins.jacobs@school.ac",
+    "phone": "+64 (901) 538-3508",
+    "address": "35 Huntington Street, Riegelwood, Iowa, 809",
+    "enrolled": "Thursday, March 19, 2015 3:52 AM",
+    "attendance": [
+      "p",
+      "a",
+      "p",
+      "l"
+    ]
+  },
+  {
+    "id": 1000560353,
+    "index": 41,
+    "isActive": true,
+    "age": 32,
+    "name": {
+      "first": "Merritt",
+      "last": "Burke"
+    },
+    "class": "IN750",
+    "ethnicity": "INT",
+    "statusCode": "ENR",
+    "email": "merritt.burke@school.ac",
+    "phone": "+64 (831) 500-2497",
+    "address": "30 Ebony Court, Westerville, Alabama, 5448",
+    "enrolled": "Sunday, July 5, 2020 7:08 PM",
+    "attendance": [
+      "p",
+      "p",
+      "a",
+      "p"
+    ]
+  },
+  {
+    "id": 1000232568,
+    "index": 42,
+    "isActive": true,
+    "age": 29,
+    "name": {
+      "first": "Jolene",
+      "last": "Merrill"
+    },
+    "class": "IN760",
+    "ethnicity": "PI",
+    "statusCode": "ENR",
+    "email": "jolene.merrill@school.ac",
+    "phone": "+64 (852) 566-2924",
+    "address": "93 Brown Street, Wyoming, Idaho, 3208",
+    "enrolled": "Friday, July 7, 2017 12:53 PM",
+    "attendance": [
+      "p",
+      "p",
+      "e",
+      "e"
+    ]
+  },
+  {
+    "id": 1000815142,
+    "index": 43,
+    "isActive": true,
+    "age": 31,
+    "name": {
+      "first": "Tabitha",
+      "last": "Lang"
+    },
+    "class": "IN760",
+    "ethnicity": "",
+    "statusCode": "ENR",
+    "email": "tabitha.lang@school.ac",
+    "phone": "+64 (886) 461-2952",
+    "address": "69 Anna Court, Whitestone, Louisiana, 100",
+    "enrolled": "Wednesday, April 1, 2015 9:40 PM",
+    "attendance": [
+      "p",
+      "l",
+      "e",
+      "s"
+    ]
+  },
+  {
+    "id": 1000719998,
+    "index": 44,
+    "isActive": true,
+    "age": 18,
+    "name": {
+      "first": "Kelly",
+      "last": "Reid"
+    },
+    "class": "IN760",
+    "ethnicity": "Maori",
+    "statusCode": "ENR",
+    "email": "kelly.reid@school.ac",
+    "phone": "+64 (819) 449-3251",
+    "address": "15 Conklin Avenue, Outlook, California, 869",
+    "enrolled": "Saturday, June 6, 2020 10:50 AM",
+    "attendance": [
+      "l",
+      "e",
+      "e",
+      "p"
+    ]
+  },
+  {
+    "id": 1000118528,
+    "index": 45,
+    "isActive": true,
+    "age": 27,
+    "name": {
+      "first": "Gould",
+      "last": "Bruce"
+    },
+    "class": "IN760",
+    "ethnicity": "Maori",
+    "statusCode": "ENR",
+    "email": "gould.bruce@school.ac",
+    "phone": "+64 (828) 529-3442",
+    "address": "83 Hinckley Place, Stollings, Rhode Island, 5397",
+    "enrolled": "Thursday, February 5, 2015 12:31 PM",
+    "attendance": [
+      "e",
+      "a",
+      "l",
+      "p"
+    ]
+  },
+  {
+    "id": 1000473922,
+    "index": 46,
+    "isActive": true,
+    "age": 32,
+    "name": {
+      "first": "Prince",
+      "last": "Hoffman"
+    },
+    "class": "IN790",
+    "ethnicity": "INT",
+    "statusCode": "ENR",
+    "email": "prince.hoffman@school.ac",
+    "phone": "+64 (837) 551-2512",
+    "address": "17 Vanderveer Street, Otranto, Missouri, 4578",
+    "enrolled": "Friday, September 21, 2018 9:10 PM",
+    "attendance": [
+      "p",
+      "p",
+      "a",
+      "p"
+    ]
+  },
+  {
+    "id": 1000308341,
+    "index": 47,
+    "isActive": false,
+    "age": 32,
+    "name": {
+      "first": "Hughes",
+      "last": "Underwood"
+    },
+    "class": "IN700",
+    "ethnicity": "INT",
+    "statusCode": "ENR",
+    "email": "hughes.underwood@school.ac",
+    "phone": "+64 (847) 401-2910",
+    "address": "32 Elm Place, Elrama, Washington, 4669",
+    "enrolled": "Tuesday, July 21, 2020 4:13 AM",
+    "attendance": [
+      "p",
+      "s",
+      "s",
+      "p"
+    ]
+  },
+  {
+    "id": 1000521641,
+    "index": 48,
+    "isActive": false,
+    "age": 35,
+    "name": {
+      "first": "Haney",
+      "last": "Reed"
+    },
+    "class": "IN750",
+    "ethnicity": "INT",
+    "statusCode": "ENR",
+    "email": "haney.reed@school.ac",
+    "phone": "+64 (965) 488-3144",
+    "address": "29 Lefferts Place, Freelandville, Massachusetts, 5426",
+    "enrolled": "Tuesday, May 24, 2016 1:09 AM",
+    "attendance": [
+      "e",
+      "p",
+      "s",
+      "p"
+    ]
+  },
+  {
+    "id": 1000257296,
+    "index": 49,
+    "isActive": false,
+    "age": 29,
+    "name": {
+      "first": "Sexton",
+      "last": "Holland"
+    },
+    "class": "IN790",
+    "ethnicity": "Maori",
+    "statusCode": "ENR",
+    "email": "sexton.holland@school.ac",
+    "phone": "+64 (953) 524-3985",
+    "address": "6 Oakland Place, Babb, Illinois, 2289",
+    "enrolled": "Monday, November 12, 2018 3:49 PM",
+    "attendance": [
+      "e",
+      "p",
+      "p",
+      "e"
+    ]
+  },
+  {
+    "id": 1000797229,
+    "index": 0,
+    "isActive": false,
+    "age": 26,
+    "name": {
+      "first": "Hensley",
+      "last": "Lott"
+    },
+    "class": "IN790",
+    "ethnicity": "Maori",
+    "statusCode": "ENR",
+    "email": "hensley.lott@school.ac",
+    "phone": "+64 (890) 495-2822",
+    "address": "42 McDonald Avenue, Dexter, South Carolina, 1458",
+    "enrolled": "Monday, August 27, 2018 12:50 AM",
+    "attendance": [
+      "p",
+      "p",
+      "p",
+      "s"
+    ]
+  },
+  {
+    "id": 1000120966,
+    "index": 1,
+    "isActive": false,
+    "age": 36,
+    "name": {
+      "first": "Deidre",
+      "last": "Buckner"
+    },
+    "class": "IN750",
+    "ethnicity": "",
+    "statusCode": "ENR",
+    "email": "deidre.buckner@school.ac",
+    "phone": "+64 (953) 461-2120",
+    "address": "68 Lott Place, Wakulla, Arizona, 8264",
+    "enrolled": "Friday, April 17, 2020 5:26 AM",
+    "attendance": [
+      "s",
+      "a",
+      "e",
+      "p"
+    ]
+  },
+  {
+    "id": 1000410754,
+    "index": 2,
+    "isActive": true,
+    "age": 29,
+    "name": {
+      "first": "Kari",
+      "last": "Fuller"
+    },
+    "class": "IN760",
+    "ethnicity": "",
+    "statusCode": "ENR",
+    "email": "kari.fuller@school.ac",
+    "phone": "+64 (955) 523-3548",
+    "address": "26 Ditmas Avenue, Canoochee, Virgin Islands, 5390",
+    "enrolled": "Monday, February 5, 2018 1:14 AM",
+    "attendance": [
+      "p",
+      "p",
+      "p",
+      "e"
+    ]
+  },
+  {
+    "id": 1000124383,
+    "index": 3,
+    "isActive": false,
+    "age": 32,
+    "name": {
+      "first": "Kristin",
+      "last": "Cline"
+    },
+    "class": "IN790",
+    "ethnicity": "INT",
+    "statusCode": "ENR",
+    "email": "kristin.cline@school.ac",
+    "phone": "+64 (949) 477-2874",
+    "address": "60 Hastings Street, Gratton, Connecticut, 6029",
+    "enrolled": "Saturday, April 30, 2016 1:07 AM",
+    "attendance": [
+      "s",
+      "p",
+      "a",
+      "p"
+    ]
+  },
+  {
+    "id": 1000796125,
+    "index": 4,
+    "isActive": false,
+    "age": 32,
+    "name": {
+      "first": "Abby",
+      "last": "Benson"
+    },
+    "class": "IN700",
+    "ethnicity": "INT",
+    "statusCode": "ENR",
+    "email": "abby.benson@school.ac",
+    "phone": "+64 (886) 592-2324",
+    "address": "15 Moore Street, Wintersburg, Arkansas, 2373",
+    "enrolled": "Friday, November 15, 2019 11:54 PM",
+    "attendance": [
+      "p",
+      "l",
+      "e",
+      "l"
+    ]
+  },
+  {
+    "id": 1000355690,
+    "index": 5,
+    "isActive": true,
+    "age": 34,
+    "name": {
+      "first": "Tamera",
+      "last": "Cohen"
+    },
+    "class": "IN760",
+    "ethnicity": "PI",
+    "statusCode": "ENR",
+    "email": "tamera.cohen@school.ac",
+    "phone": "+64 (877) 515-3177",
+    "address": "23 Ira Court, Coventry, Northern Mariana Islands, 6663",
+    "enrolled": "Tuesday, December 29, 2015 6:43 PM",
+    "attendance": [
+      "l",
+      "e",
+      "e",
+      "e"
+    ]
+  },
+  {
+    "id": 1000166380,
+    "index": 6,
+    "isActive": true,
+    "age": 37,
+    "name": {
+      "first": "Ina",
+      "last": "Mills"
+    },
+    "class": "IN790",
+    "ethnicity": "INT",
+    "statusCode": "ENR",
+    "email": "ina.mills@school.ac",
+    "phone": "+64 (926) 421-3523",
+    "address": "37 Loring Avenue, Kiskimere, Puerto Rico, 6893",
+    "enrolled": "Thursday, January 31, 2019 5:42 AM",
+    "attendance": [
+      "a",
+      "p",
+      "p",
+      "l"
+    ]
+  },
+  {
+    "id": 1000163369,
+    "index": 7,
+    "isActive": true,
+    "age": 31,
+    "name": {
+      "first": "Belinda",
+      "last": "Mckinney"
+    },
+    "class": "IN790",
+    "ethnicity": "INT",
+    "statusCode": "ENR",
+    "email": "belinda.mckinney@school.ac",
+    "phone": "+64 (846) 563-3312",
+    "address": "75 Gallatin Place, Somerset, Washington, 559",
+    "enrolled": "Tuesday, May 3, 2016 11:45 AM",
+    "attendance": [
+      "e",
+      "s",
+      "l",
+      "e"
+    ]
+  },
+  {
+    "id": 1000438686,
+    "index": 8,
+    "isActive": false,
+    "age": 33,
+    "name": {
+      "first": "Jimenez",
+      "last": "Wagner"
+    },
+    "class": "IN760",
+    "ethnicity": "",
+    "statusCode": "ENR",
+    "email": "jimenez.wagner@school.ac",
+    "phone": "+64 (884) 536-3020",
+    "address": "75 Village Road, Hachita, District Of Columbia, 8819",
+    "enrolled": "Wednesday, October 29, 2014 1:45 AM",
+    "attendance": [
+      "e",
+      "a",
+      "e",
+      "e"
+    ]
+  },
+  {
+    "id": 1000824995,
+    "index": 9,
+    "isActive": true,
+    "age": 22,
+    "name": {
+      "first": "Janelle",
+      "last": "Harris"
+    },
+    "class": "IN760",
+    "ethnicity": "INT",
+    "statusCode": "ENR",
+    "email": "janelle.harris@school.ac",
+    "phone": "+64 (898) 530-3425",
+    "address": "51 Bulwer Place, Bawcomville, North Carolina, 146",
+    "enrolled": "Saturday, June 1, 2019 10:44 PM",
+    "attendance": [
+      "s",
+      "p",
+      "e",
+      "s"
+    ]
+  },
+  {
+    "id": 1000270418,
+    "index": 10,
+    "isActive": false,
+    "age": 33,
+    "name": {
+      "first": "William",
+      "last": "Pearson"
+    },
+    "class": "IN750",
+    "ethnicity": "PI",
+    "statusCode": "ENR",
+    "email": "william.pearson@school.ac",
+    "phone": "+64 (823) 444-3979",
+    "address": "96 Chester Street, Hannasville, Marshall Islands, 3279",
+    "enrolled": "Sunday, October 26, 2014 10:23 AM",
+    "attendance": [
+      "p",
+      "e",
+      "p",
+      "p"
+    ]
+  },
+  {
+    "id": 1000134378,
+    "index": 11,
+    "isActive": false,
+    "age": 23,
+    "name": {
+      "first": "Dodson",
+      "last": "Cruz"
+    },
+    "class": "IN750",
+    "ethnicity": "INT",
+    "statusCode": "ENR",
+    "email": "dodson.cruz@school.ac",
+    "phone": "+64 (832) 541-3448",
+    "address": "85 Brightwater Avenue, Roderfield, Kansas, 5905",
+    "enrolled": "Friday, March 21, 2014 11:39 PM",
+    "attendance": [
+      "l",
+      "p",
+      "a",
+      "p"
+    ]
+  },
+  {
+    "id": 1000200684,
+    "index": 12,
+    "isActive": false,
+    "age": 35,
+    "name": {
+      "first": "Hess",
+      "last": "Colon"
+    },
+    "class": "IN760",
+    "ethnicity": "Maori",
+    "statusCode": "ENR",
+    "email": "hess.colon@school.ac",
+    "phone": "+64 (826) 449-2964",
+    "address": "96 Rockaway Parkway, Convent, South Dakota, 3445",
+    "enrolled": "Saturday, August 2, 2014 7:16 AM",
+    "attendance": [
+      "a",
+      "p",
+      "e",
+      "s"
+    ]
+  },
+  {
+    "id": 1000773103,
+    "index": 13,
+    "isActive": false,
+    "age": 25,
+    "name": {
+      "first": "Morton",
+      "last": "Juarez"
+    },
+    "class": "IN700",
+    "ethnicity": "",
+    "statusCode": "ENR",
+    "email": "morton.juarez@school.ac",
+    "phone": "+64 (845) 590-3843",
+    "address": "29 Stillwell Avenue, Enetai, Hawaii, 6959",
+    "enrolled": "Wednesday, June 7, 2017 1:06 AM",
+    "attendance": [
+      "a",
+      "s",
+      "l",
+      "p"
+    ]
+  },
+  {
+    "id": 1000655027,
+    "index": 14,
+    "isActive": false,
+    "age": 37,
+    "name": {
+      "first": "Beard",
+      "last": "Summers"
+    },
+    "class": "IN790",
+    "ethnicity": "",
+    "statusCode": "ENR",
+    "email": "beard.summers@school.ac",
+    "phone": "+64 (850) 566-3438",
+    "address": "48 Hooper Street, Maury, Tennessee, 9626",
+    "enrolled": "Saturday, June 20, 2020 1:32 AM",
+    "attendance": [
+      "p",
+      "s",
+      "s",
+      "p"
+    ]
+  },
+  {
+    "id": 1000286714,
+    "index": 15,
+    "isActive": false,
+    "age": 17,
+    "name": {
+      "first": "Harvey",
+      "last": "Glover"
+    },
+    "class": "IN750",
+    "ethnicity": "INT",
+    "statusCode": "ENR",
+    "email": "harvey.glover@school.ac",
+    "phone": "+64 (832) 549-3242",
+    "address": "63 Kay Court, Ahwahnee, West Virginia, 7523",
+    "enrolled": "Thursday, August 16, 2018 5:29 AM",
+    "attendance": [
+      "a",
+      "l",
+      "a",
+      "s"
+    ]
+  },
+  {
+    "id": 1000561922,
+    "index": 16,
+    "isActive": true,
+    "age": 32,
+    "name": {
+      "first": "Lynne",
+      "last": "Wilcox"
+    },
+    "class": "IN750",
+    "ethnicity": "Maori",
+    "statusCode": "ENR",
+    "email": "lynne.wilcox@school.ac",
+    "phone": "+64 (843) 573-2435",
+    "address": "54 Guernsey Street, Barronett, New York, 2034",
+    "enrolled": "Tuesday, December 25, 2018 7:33 PM",
+    "attendance": [
+      "e",
+      "p",
+      "l",
+      "p"
+    ]
+  },
+  {
+    "id": 1000168272,
+    "index": 17,
+    "isActive": true,
+    "age": 36,
+    "name": {
+      "first": "Molina",
+      "last": "Logan"
+    },
+    "class": "IN760",
+    "ethnicity": "",
+    "statusCode": "ENR",
+    "email": "molina.logan@school.ac",
+    "phone": "+64 (884) 547-3605",
+    "address": "97 Schenck Court, Wildwood, North Dakota, 8430",
+    "enrolled": "Sunday, January 5, 2014 4:42 AM",
+    "attendance": [
+      "s",
+      "l",
+      "s",
+      "p"
+    ]
+  },
+  {
+    "id": 1000136347,
+    "index": 18,
+    "isActive": false,
+    "age": 27,
+    "name": {
+      "first": "Higgins",
+      "last": "Whitfield"
+    },
+    "class": "IN700",
+    "ethnicity": "INT",
+    "statusCode": "ENR",
+    "email": "higgins.whitfield@school.ac",
+    "phone": "+64 (846) 580-3125",
+    "address": "32 Vanderveer Street, Centerville, Montana, 4156",
+    "enrolled": "Wednesday, December 2, 2015 8:49 AM",
+    "attendance": [
+      "s",
+      "l",
+      "p",
+      "s"
+    ]
+  },
+  {
+    "id": 1000403587,
+    "index": 19,
+    "isActive": true,
+    "age": 30,
+    "name": {
+      "first": "Chapman",
+      "last": "Jordan"
+    },
+    "class": "IN760",
+    "ethnicity": "",
+    "statusCode": "ENR",
+    "email": "chapman.jordan@school.ac",
+    "phone": "+64 (976) 573-3189",
+    "address": "17 Matthews Court, Austinburg, Nebraska, 7606",
+    "enrolled": "Wednesday, December 4, 2019 10:24 AM",
+    "attendance": [
+      "s",
+      "p",
+      "e",
+      "a"
+    ]
+  },
+  {
+    "id": 1000231201,
+    "index": 20,
+    "isActive": false,
+    "age": 22,
+    "name": {
+      "first": "Dorthy",
+      "last": "Banks"
+    },
+    "class": "IN760",
+    "ethnicity": "INT",
+    "statusCode": "ENR",
+    "email": "dorthy.banks@school.ac",
+    "phone": "+64 (859) 598-3596",
+    "address": "95 Crystal Street, Kilbourne, Virginia, 3695",
+    "enrolled": "Thursday, December 24, 2015 10:55 PM",
+    "attendance": [
+      "p",
+      "s",
+      "p",
+      "a"
+    ]
+  },
+  {
+    "id": 1000282186,
+    "index": 21,
+    "isActive": false,
+    "age": 21,
+    "name": {
+      "first": "Rutledge",
+      "last": "Ingram"
+    },
+    "class": "IN760",
+    "ethnicity": "INT",
+    "statusCode": "ENR",
+    "email": "rutledge.ingram@school.ac",
+    "phone": "+64 (865) 528-2774",
+    "address": "69 Landis Court, Seymour, Michigan, 6014",
+    "enrolled": "Sunday, September 20, 2015 8:03 AM",
+    "attendance": [
+      "a",
+      "p",
+      "l",
+      "s"
+    ]
+  },
+  {
+    "id": 1000239170,
+    "index": 22,
+    "isActive": false,
+    "age": 37,
+    "name": {
+      "first": "Velasquez",
+      "last": "Welch"
+    },
+    "class": "IN700",
+    "ethnicity": "",
+    "statusCode": "ENR",
+    "email": "velasquez.welch@school.ac",
+    "phone": "+64 (967) 594-3319",
+    "address": "65 Bryant Street, Kirk, Maryland, 8759",
+    "enrolled": "Wednesday, April 26, 2017 10:46 AM",
+    "attendance": [
+      "p",
+      "p",
+      "a",
+      "l"
+    ]
+  },
+  {
+    "id": 1000583649,
+    "index": 23,
+    "isActive": false,
+    "age": 30,
+    "name": {
+      "first": "Gutierrez",
+      "last": "Wallace"
+    },
+    "class": "IN700",
+    "ethnicity": "",
+    "statusCode": "ENR",
+    "email": "gutierrez.wallace@school.ac",
+    "phone": "+64 (826) 592-2521",
+    "address": "57 Dorchester Road, Brule, Massachusetts, 253",
+    "enrolled": "Thursday, May 31, 2018 1:43 PM",
+    "attendance": [
+      "a",
+      "p",
+      "a",
+      "p"
+    ]
+  },
+  {
+    "id": 1000376500,
+    "index": 24,
+    "isActive": true,
+    "age": 28,
+    "name": {
+      "first": "Morrow",
+      "last": "Craft"
+    },
+    "class": "IN700",
+    "ethnicity": "PI",
+    "statusCode": "ENR",
+    "email": "morrow.craft@school.ac",
+    "phone": "+64 (924) 599-3131",
+    "address": "33 Juliana Place, Hollymead, Federated States Of Micronesia, 143",
+    "enrolled": "Sunday, February 11, 2018 8:57 AM",
+    "attendance": [
+      "p",
+      "a",
+      "p",
+      "a"
+    ]
+  },
+  {
+    "id": 1000703126,
+    "index": 25,
+    "isActive": true,
+    "age": 32,
+    "name": {
+      "first": "Viola",
+      "last": "Spence"
+    },
+    "class": "IN790",
+    "ethnicity": "Maori",
+    "statusCode": "ENR",
+    "email": "viola.spence@school.ac",
+    "phone": "+64 (885) 506-3858",
+    "address": "64 Desmond Court, Nadine, New Mexico, 4099",
+    "enrolled": "Friday, March 4, 2016 3:16 AM",
+    "attendance": [
+      "p",
+      "l",
+      "e",
+      "p"
+    ]
+  },
+  {
+    "id": 1000686618,
+    "index": 26,
+    "isActive": false,
+    "age": 29,
+    "name": {
+      "first": "Aline",
+      "last": "Roth"
+    },
+    "class": "IN700",
+    "ethnicity": "Maori",
+    "statusCode": "ENR",
+    "email": "aline.roth@school.ac",
+    "phone": "+64 (964) 578-3529",
+    "address": "74 Cherry Street, Winston, Vermont, 6826",
+    "enrolled": "Friday, August 21, 2015 12:37 PM",
+    "attendance": [
+      "p",
+      "a",
+      "l",
+      "p"
+    ]
+  },
+  {
+    "id": 1000549613,
+    "index": 27,
+    "isActive": true,
+    "age": 29,
+    "name": {
+      "first": "Smith",
+      "last": "Britt"
+    },
+    "class": "IN700",
+    "ethnicity": "PI",
+    "statusCode": "ENR",
+    "email": "smith.britt@school.ac",
+    "phone": "+64 (970) 434-2442",
+    "address": "11 Summit Street, Tyhee, Rhode Island, 6111",
+    "enrolled": "Monday, August 1, 2016 3:49 AM",
+    "attendance": [
+      "p",
+      "p",
+      "s",
+      "e"
+    ]
+  },
+  {
+    "id": 1000294680,
+    "index": 28,
+    "isActive": true,
+    "age": 24,
+    "name": {
+      "first": "Catherine",
+      "last": "Tillman"
+    },
+    "class": "IN790",
+    "ethnicity": "",
+    "statusCode": "ENR",
+    "email": "catherine.tillman@school.ac",
+    "phone": "+64 (881) 519-3801",
+    "address": "4 Vermont Street, Nelson, Colorado, 3590",
+    "enrolled": "Saturday, February 3, 2018 11:23 AM",
+    "attendance": [
+      "p",
+      "l",
+      "p",
+      "a"
+    ]
+  },
+  {
+    "id": 1000172559,
+    "index": 29,
+    "isActive": true,
+    "age": 35,
+    "name": {
+      "first": "Farmer",
+      "last": "Hall"
+    },
+    "class": "IN750",
+    "ethnicity": "INT",
+    "statusCode": "ENR",
+    "email": "farmer.hall@school.ac",
+    "phone": "+64 (919) 572-2931",
+    "address": "54 Coleman Street, Onton, Nevada, 3880",
+    "enrolled": "Wednesday, April 20, 2016 9:07 AM",
+    "attendance": [
+      "p",
+      "a",
+      "s",
+      "s"
+    ]
+  },
+  {
+    "id": 1000117042,
+    "index": 30,
+    "isActive": false,
+    "age": 27,
+    "name": {
+      "first": "Levy",
+      "last": "Glenn"
+    },
+    "class": "IN750",
+    "ethnicity": "PI",
+    "statusCode": "ENR",
+    "email": "levy.glenn@school.ac",
+    "phone": "+64 (942) 571-3101",
+    "address": "44 Reed Street, Ronco, Texas, 9750",
+    "enrolled": "Wednesday, January 30, 2019 12:09 PM",
+    "attendance": [
+      "e",
+      "e",
+      "p",
+      "s"
+    ]
+  },
+  {
+    "id": 1000548824,
+    "index": 31,
+    "isActive": false,
+    "age": 35,
+    "name": {
+      "first": "Joyner",
+      "last": "Ware"
+    },
+    "class": "IN700",
+    "ethnicity": "",
+    "statusCode": "ENR",
+    "email": "joyner.ware@school.ac",
+    "phone": "+64 (811) 497-3540",
+    "address": "89 Montague Street, Darrtown, Louisiana, 8275",
+    "enrolled": "Tuesday, February 9, 2016 7:58 PM",
+    "attendance": [
+      "p",
+      "l",
+      "p",
+      "p"
+    ]
+  },
+  {
+    "id": 1000338100,
+    "index": 32,
+    "isActive": true,
+    "age": 17,
+    "name": {
+      "first": "Catalina",
+      "last": "Sargent"
+    },
+    "class": "IN760",
+    "ethnicity": "PI",
+    "statusCode": "ENR",
+    "email": "catalina.sargent@school.ac",
+    "phone": "+64 (808) 560-2392",
+    "address": "15 Bushwick Avenue, Madrid, Minnesota, 652",
+    "enrolled": "Friday, August 14, 2020 10:07 AM",
+    "attendance": [
+      "e",
+      "l",
+      "e",
+      "p"
+    ]
+  },
+  {
+    "id": 1000472750,
+    "index": 33,
+    "isActive": false,
+    "age": 24,
+    "name": {
+      "first": "Maryanne",
+      "last": "Graves"
+    },
+    "class": "IN790",
+    "ethnicity": "PI",
+    "statusCode": "ENR",
+    "email": "maryanne.graves@school.ac",
+    "phone": "+64 (880) 446-2820",
+    "address": "72 Elizabeth Place, Cashtown, Oklahoma, 4812",
+    "enrolled": "Thursday, August 20, 2015 6:28 PM",
+    "attendance": [
+      "p",
+      "a",
+      "e",
+      "p"
+    ]
+  },
+  {
+    "id": 1000308357,
+    "index": 34,
+    "isActive": true,
+    "age": 21,
+    "name": {
+      "first": "Eleanor",
+      "last": "Jensen"
+    },
+    "class": "IN750",
+    "ethnicity": "INT",
+    "statusCode": "ENR",
+    "email": "eleanor.jensen@school.ac",
+    "phone": "+64 (855) 444-2148",
+    "address": "42 Clarendon Road, Waiohinu, New Hampshire, 3762",
+    "enrolled": "Wednesday, January 11, 2017 5:04 PM",
+    "attendance": [
+      "p",
+      "p",
+      "e",
+      "a"
+    ]
+  },
+  {
+    "id": 1000628316,
+    "index": 35,
+    "isActive": false,
+    "age": 19,
+    "name": {
+      "first": "Berta",
+      "last": "Jones"
+    },
+    "class": "IN750",
+    "ethnicity": "",
+    "statusCode": "ENR",
+    "email": "berta.jones@school.ac",
+    "phone": "+64 (867) 438-2960",
+    "address": "57 Rewe Street, Robinette, Alabama, 278",
+    "enrolled": "Tuesday, November 10, 2015 1:12 PM",
+    "attendance": [
+      "p",
+      "p",
+      "s",
+      "p"
+    ]
+  },
+  {
+    "id": 1000478193,
+    "index": 36,
+    "isActive": true,
+    "age": 36,
+    "name": {
+      "first": "Jeanette",
+      "last": "Walls"
+    },
+    "class": "IN750",
+    "ethnicity": "INT",
+    "statusCode": "ENR",
+    "email": "jeanette.walls@school.ac",
+    "phone": "+64 (910) 579-3720",
+    "address": "67 Cyrus Avenue, Frystown, Mississippi, 9458",
+    "enrolled": "Wednesday, April 25, 2018 11:17 PM",
+    "attendance": [
+      "e",
+      "l",
+      "p",
+      "a"
+    ]
+  },
+  {
+    "id": 1000684668,
+    "index": 37,
+    "isActive": true,
+    "age": 29,
+    "name": {
+      "first": "Dena",
+      "last": "Fleming"
+    },
+    "class": "IN760",
+    "ethnicity": "",
+    "statusCode": "ENR",
+    "email": "dena.fleming@school.ac",
+    "phone": "+64 (802) 548-2107",
+    "address": "47 Brooklyn Road, Blanford, Ohio, 3395",
+    "enrolled": "Friday, October 6, 2017 9:17 AM",
+    "attendance": [
+      "e",
+      "p",
+      "a",
+      "s"
+    ]
+  },
+  {
+    "id": 1000265842,
+    "index": 38,
+    "isActive": false,
+    "age": 24,
+    "name": {
+      "first": "Lang",
+      "last": "Howe"
+    },
+    "class": "IN760",
+    "ethnicity": "Maori",
+    "statusCode": "ENR",
+    "email": "lang.howe@school.ac",
+    "phone": "+64 (802) 403-2680",
+    "address": "96 Poly Place, Gorham, Wisconsin, 4716",
+    "enrolled": "Saturday, May 7, 2016 2:34 AM",
+    "attendance": [
+      "p",
+      "e",
+      "s",
+      "p"
+    ]
+  },
+  {
+    "id": 1000410173,
+    "index": 39,
+    "isActive": false,
+    "age": 18,
+    "name": {
+      "first": "Munoz",
+      "last": "Simon"
+    },
+    "class": "IN760",
+    "ethnicity": "INT",
+    "statusCode": "ENR",
+    "email": "munoz.simon@school.ac",
+    "phone": "+64 (817) 477-2097",
+    "address": "97 Etna Street, Utting, Maine, 4062",
+    "enrolled": "Tuesday, August 12, 2014 11:18 AM",
+    "attendance": [
+      "l",
+      "p",
+      "p",
+      "a"
+    ]
+  },
+  {
+    "id": 1000237048,
+    "index": 40,
+    "isActive": true,
+    "age": 29,
+    "name": {
+      "first": "Kathleen",
+      "last": "Harrington"
+    },
+    "class": "IN760",
+    "ethnicity": "Maori",
+    "statusCode": "ENR",
+    "email": "kathleen.harrington@school.ac",
+    "phone": "+64 (845) 556-2602",
+    "address": "51 Myrtle Avenue, Tryon, Iowa, 8921",
+    "enrolled": "Saturday, April 29, 2017 6:52 AM",
+    "attendance": [
+      "p",
+      "s",
+      "p",
+      "e"
+    ]
+  },
+  {
+    "id": 1000607984,
+    "index": 41,
+    "isActive": true,
+    "age": 23,
+    "name": {
+      "first": "Bonita",
+      "last": "Burton"
+    },
+    "class": "IN750",
+    "ethnicity": "INT",
+    "statusCode": "ENR",
+    "email": "bonita.burton@school.ac",
+    "phone": "+64 (839) 461-3855",
+    "address": "68 Troutman Street, Washington, Kentucky, 740",
+    "enrolled": "Thursday, June 25, 2015 5:53 AM",
+    "attendance": [
+      "p",
+      "s",
+      "l",
+      "p"
+    ]
+  },
+  {
+    "id": 1000552515,
+    "index": 42,
+    "isActive": false,
+    "age": 21,
+    "name": {
+      "first": "Mccormick",
+      "last": "Ramsey"
+    },
+    "class": "IN700",
+    "ethnicity": "",
+    "statusCode": "ENR",
+    "email": "mccormick.ramsey@school.ac",
+    "phone": "+64 (821) 578-3725",
+    "address": "77 Hart Place, Greenbackville, Wyoming, 819",
+    "enrolled": "Monday, November 26, 2018 5:07 AM",
+    "attendance": [
+      "p",
+      "p",
+      "s",
+      "l"
+    ]
+  },
+  {
+    "id": 1000418165,
+    "index": 43,
+    "isActive": false,
+    "age": 31,
+    "name": {
+      "first": "Boyd",
+      "last": "Donovan"
+    },
+    "class": "IN790",
+    "ethnicity": "INT",
+    "statusCode": "ENR",
+    "email": "boyd.donovan@school.ac",
+    "phone": "+64 (995) 429-3250",
+    "address": "13 Dennett Place, Staples, Indiana, 1897",
+    "enrolled": "Monday, June 15, 2020 11:12 PM",
+    "attendance": [
+      "s",
+      "p",
+      "s",
+      "l"
+    ]
+  },
+  {
+    "id": 1000665165,
+    "index": 44,
+    "isActive": true,
+    "age": 22,
+    "name": {
+      "first": "Cline",
+      "last": "Gallagher"
+    },
+    "class": "IN750",
+    "ethnicity": "",
+    "statusCode": "ENR",
+    "email": "cline.gallagher@school.ac",
+    "phone": "+64 (914) 586-2165",
+    "address": "35 Cadman Plaza, Axis, Alaska, 5730",
+    "enrolled": "Thursday, June 13, 2019 6:27 AM",
+    "attendance": [
+      "p",
+      "e",
+      "l",
+      "a"
+    ]
+  },
+  {
+    "id": 1000361461,
+    "index": 45,
+    "isActive": false,
+    "age": 24,
+    "name": {
+      "first": "Johnston",
+      "last": "Levine"
+    },
+    "class": "IN700",
+    "ethnicity": "",
+    "statusCode": "ENR",
+    "email": "johnston.levine@school.ac",
+    "phone": "+64 (832) 564-2984",
+    "address": "96 Foster Avenue, Dana, Palau, 5527",
+    "enrolled": "Sunday, August 23, 2015 6:37 PM",
+    "attendance": [
+      "p",
+      "p",
+      "p",
+      "e"
+    ]
+  },
+  {
+    "id": 1000243247,
+    "index": 46,
+    "isActive": false,
+    "age": 35,
+    "name": {
+      "first": "Palmer",
+      "last": "Guerra"
+    },
+    "class": "IN750",
+    "ethnicity": "Maori",
+    "statusCode": "ENR",
+    "email": "palmer.guerra@school.ac",
+    "phone": "+64 (940) 460-3122",
+    "address": "58 Devon Avenue, Orviston, Georgia, 1533",
+    "enrolled": "Sunday, September 10, 2017 2:37 AM",
+    "attendance": [
+      "a",
+      "e",
+      "p",
+      "p"
+    ]
+  },
+  {
+    "id": 1000475578,
+    "index": 47,
+    "isActive": true,
+    "age": 35,
+    "name": {
+      "first": "Liz",
+      "last": "Velez"
+    },
+    "class": "IN750",
+    "ethnicity": "PI",
+    "statusCode": "ENR",
+    "email": "liz.velez@school.ac",
+    "phone": "+64 (915) 453-2855",
+    "address": "82 Putnam Avenue, Bath, New Jersey, 7685",
+    "enrolled": "Tuesday, June 23, 2020 8:24 AM",
+    "attendance": [
+      "a",
+      "p",
+      "e",
+      "p"
+    ]
+  },
+  {
+    "id": 1000486376,
+    "index": 48,
+    "isActive": true,
+    "age": 30,
+    "name": {
+      "first": "Lola",
+      "last": "Mcmillan"
+    },
+    "class": "IN790",
+    "ethnicity": "PI",
+    "statusCode": "ENR",
+    "email": "lola.mcmillan@school.ac",
+    "phone": "+64 (993) 448-2254",
+    "address": "13 Sunnyside Court, Herbster, Utah, 3624",
+    "enrolled": "Monday, April 17, 2017 12:32 PM",
+    "attendance": [
+      "l",
+      "a",
+      "p",
+      "l"
+    ]
+  },
+  {
+    "id": 1000874837,
+    "index": 49,
+    "isActive": true,
+    "age": 28,
+    "name": {
+      "first": "Cathy",
+      "last": "Valentine"
+    },
+    "class": "IN700",
+    "ethnicity": "",
+    "statusCode": "ENR",
+    "email": "cathy.valentine@school.ac",
+    "phone": "+64 (875) 517-3890",
+    "address": "82 Chester Court, Day, Guam, 3345",
+    "enrolled": "Sunday, December 24, 2017 8:07 PM",
+    "attendance": [
+      "s",
+      "a",
+      "p",
+      "a"
+    ]
+  }
+]
